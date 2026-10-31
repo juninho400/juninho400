@@ -42,16 +42,6 @@ Site com treinos, metas, evolução e comunidade.
 
 Braço robótico controlado por movimentos capturados pela câmera, utilizando Arduino, Python, OpenCV e MediaPipe.
 
-### 📊 Meu GitHub
-
-<div align="center">
-
-![Visitas](https://komarev.com/ghpvc/?username=juninho400&color=00ff88&style=for-the-badge&label=VISITAS+AO+PERFIL)
-
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=juninho400&theme=github-compact&color=00ff88&line=00ff88&point=ffffff&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
